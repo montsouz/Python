@@ -54,6 +54,7 @@ def connect(graph, a, b, edge):
 
 
 def prim(graph: list, root: Vertex) -> list:
+    print('hahahahahaha')
     """Prim's Algorithm.
 
     Runtime:
